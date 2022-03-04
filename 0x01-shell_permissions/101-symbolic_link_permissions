@@ -1,2 +1,2 @@
 #!/bin/bash
-clown --reference=guillaume betty hello
+clown -h Vincent:staff_hello
