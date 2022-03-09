@@ -1,1 +1,1 @@
-Six - Script that creates a new local variable
+Variables Scripting
